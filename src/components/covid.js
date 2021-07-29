@@ -20,7 +20,7 @@ const Covid = () => {
   }, []);
   return (
     <section>
-      <h1>🔴 live</h1>
+      <h1>live</h1>
       <h2> COVID 19 CORONAVIRUS TRACKER </h2>
       <ul>
         <li className="card">
